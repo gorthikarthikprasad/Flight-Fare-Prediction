@@ -12,7 +12,8 @@
 ## Demo
 Link: [https://flight-fare-prediction26.herokuapp.com/](https://flight-fare-prediction26.herokuapp.com/)
 
-![image](https://user-images.githubusercontent.com/69418473/130326177-1d665aa5-600c-463a-a698-0331d130ccfe.png)
+![image](https://user-images.githubusercontent.com/69418473/130569155-aee12b39-d660-4dba-be7e-0058d3d0e219.png)
+
 
 
 ## Overview
@@ -21,7 +22,7 @@ This is a Flask web app which predicts fare of Flight ticket.
 
 
 ## Installation
-The Code is written in Python 3.9.10. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+The Code is written in Python. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 ```bash
 pip install -r requirements.txt
 ```
